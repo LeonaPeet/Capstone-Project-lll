@@ -1,0 +1,8 @@
+                
+Total number of registered users: 4
+Total number of tasks: 6
+Total number of tasks for: 1
+Total percentage of tasks assigned to user: 16.67%
+Total percentage of complete tasks for user: 100.0%
+Total percentage of incomplete tasks for user: 0.0%
+Total percentage of incomplete and overdue tasks for user: 0.0%
